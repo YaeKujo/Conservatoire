@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Vue\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vue\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vue\Vue_eleve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vue\Vue_paiement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vue\Vue_prof.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vue\Vue_seanceEleve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vue\Vue_seanceProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
